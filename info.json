@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "137a9a8d5a608a3e95f4015956be8742e2a789b1",
+    "author": "Sebastian Krantz <sebastian.krantz@graduateinstitute.ch>",
+    "time": "2026-06-18T20:43:41Z",
+    "files": 22,
+    "merge": true,
+    "message": "Merge pull request #110 from ropensci/development\n\nSmaller figures + non-self contained vignette (preserving URLs for im…"
+  },
+  "repo": "https://github.com/ropensci/dfms",
+  "pkg": "dfms",
+  "time": "2026-08-30T07:43:51Z"
+}
